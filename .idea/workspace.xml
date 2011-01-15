@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bbbdda0-1a94-4414-b0ec-1722e6385491" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\MyStuff\Dropbox\Source\RubyTutorial\sample_app\.autotest.swp" afterPath="" />
-      <change type="DELETED" beforePath="C:\MyStuff\Dropbox\Source\RubyTutorial\sample_app\spec\helpers\pages_helper_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\MyStuff\Dropbox\Source\RubyTutorial\sample_app\spec\views\pages\contact.html.erb_spec.rb" afterPath="" />
-      <change type="DELETED" beforePath="C:\MyStuff\Dropbox\Source\RubyTutorial\sample_app\spec\views\pages\home.html.erb_spec.rb" afterPath="" />
+      <change type="DELETED" beforePath="C:\MyStuff\Dropbox\Source\RubyTutorial\sample_app\.Gemfile.lock.swp" afterPath="" />
+      <change type="DELETED" beforePath="C:\MyStuff\Dropbox\Source\RubyTutorial\sample_app\.Gemfile.swp" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sample_app.iws" />
